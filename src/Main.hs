@@ -1,0 +1,3 @@
+import MNIST
+
+main = trainMNIST
