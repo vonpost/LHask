@@ -1,4 +1,4 @@
-# HLearn
+# LHask
 To train MNIST with GPU change back-end in Backprop.hs to Data.Array.Accelerate.LLVM.PTX
 To train MNIST with CPU change back-end in Backprop.hs to Data.Array.Accelerate.LLVM.Native
 
