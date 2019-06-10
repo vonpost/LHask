@@ -4,7 +4,7 @@ cabal-version:       2.0
 -- For further documentation, see http://haskell.org/cabal/users-guide/
 
 -- The name of the package.
-name:                HLearn
+name:                LHask
 
 -- The package version.  See the Haskell package versioning policy (PVP)
 -- for standards guiding when and how versions should be incremented.
